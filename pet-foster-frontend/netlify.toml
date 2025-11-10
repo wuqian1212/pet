@@ -12,5 +12,5 @@
 
 [context.production.environment]
   # 生产环境的环境变量
-  # VITE_SUPABASE_URL = "https://vhqdsuntkghogcljbkox.supabase.co.supabase.co/rest/v1"
-  # VITE_SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZocWRzdW50a2dob2djbGpia294Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjI0OTc3ODQsImV4cCI6MjA3ODA3Mzc4NH0.qmP5svsrEuyRgYRp8cmD13WUd9kXueDFQGNNoV1bTUw
+  VITE_SUPABASE_URL = "https://vhqdsuntkghogcljbkox.supabase.co"
+  VITE_SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZocWRzdW50a2dob2djbGpia294Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjI0OTc3ODQsImV4cCI6MjA3ODA3Mzc4NH0.qmP5svsrEuyRgYRp8cmD13WUd9kXueDFQGNNoV1bTUw"
